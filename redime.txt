@@ -1,4 +1,4 @@
-test merge on master
+test merge on master m
 test merge on dev
 dosomething on dev branch
 dothing on local
