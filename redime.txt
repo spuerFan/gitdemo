@@ -1,4 +1,8 @@
 test merge on master
+test merge on dev
+dosomething on dev branch
+dothing on local
+tmp to stage
 33333
 2222222
 Git is a distributed version control system.
